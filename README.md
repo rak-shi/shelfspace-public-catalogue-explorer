@@ -119,6 +119,20 @@ python -m pip install -r requirements.txt
 
 If the dashboard uses Pandas or Requests, make sure those packages are included in `requirements.txt`.
 
+## Screenshots
+
+### 1. Application Dashboard
+
+![Shelfspace Dashboard](screenshots/img1.png)
+
+### 2. API Documentation
+
+![FastAPI Documentation](screenshots/img2.png)
+
+### 3. API Response
+
+![Sample API Response](screenshots/img3.png)
+
 ## Running the Application
 
 ### Start the API server
